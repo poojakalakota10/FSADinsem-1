@@ -1,4 +1,4 @@
-package com.klef.fsad.exam.hibernateProject;
+package com.klef.fsad.exam;
 
 import jakarta.persistence.*;
 import java.util.Date;
